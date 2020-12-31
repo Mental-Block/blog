@@ -7,7 +7,7 @@ import SEO from "../components/Seo"
 export default function about() {
     return (
         <Layout>
-            <SEO title="About"/>
+            <SEO title="About" />
             <article>
                 <header>
                     <h1 className="header center">

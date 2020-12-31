@@ -8,7 +8,7 @@ import TableWithData from "../components/TableWithData"
 export default function archive() {
     return (
         <Layout>
-            <SEO title="Archive"/>
+            <SEO title="Archive" />
               <section aria-label="search">
                 <h2 className="sub__header">Search</h2>
                 <TableWithData />

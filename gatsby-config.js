@@ -73,13 +73,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
-        start_url: `/blog`,
-        background_color: `#ffffff`,
-        theme_color: `#663399`,
+        name: `Bad Ideas Guy`,
+        short_name: `BadIdeasGuy`,
+        start_url: `/`,
         display: `minimal-ui`,
-        icon: `/icon`,
+        icon: `/`,
       },
     },
     `gatsby-plugin-react-helmet`,
