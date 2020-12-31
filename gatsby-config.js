@@ -3,9 +3,9 @@ module.exports = {
     title: `Bad Ideas Guy`,
     author: {
       name: `Aaron Tibben`,
-      summary: `lol `,
+      summary: `I am a software developer who also like to find intresting investment opportunities`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: ``,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
   },
   plugins: [
@@ -73,11 +73,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
+        display: "standalone",
         name: `Bad Ideas Guy`,
         short_name: `BadIdeasGuy`,
-        start_url: `/`,
-        display: `minimal-ui`,
-        icon: `/`,
+        start_url: `./public/index.html`,
+        icon: `./svg/logo.svg`,
+        theme_color_in_head: false
       },
     },
     `gatsby-plugin-react-helmet`,

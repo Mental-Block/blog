@@ -178,7 +178,7 @@ a:hover, .link:hover{
 
 /* headers, inputs links, etc... */
 .header{
-  margin-bottom: 50px;
+  margin:  0 0 50px 0;
   color: var(--primary-color);
   font-size: var(--font-xlg);
   font-weight: var(--weigth-bold);
