@@ -6,7 +6,7 @@ module.exports = {
       summary: `I am a software developer who also like to find intresting investment opportunities`,
     },
     description: ``,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `http://www.badideasguy.com/`,
   },
   plugins: [
     `gatsby-plugin-sitemap`,
@@ -35,7 +35,7 @@ module.exports = {
       resolve: 'gatsby-plugin-react-svg',
       options: {
         rule: {
-          include: `${__dirname}/svg/`,
+          include: `${__dirname}/svg`,
         }
       }
     },
