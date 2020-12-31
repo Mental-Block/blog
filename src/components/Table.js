@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import { useTable, useGlobalFilter, useAsyncDebounce  } from 'react-table'
+import { useTable, useGlobalFilter } from 'react-table'
 
 import MagGlassIcon from "../../svg/search.svg"
 
@@ -59,10 +59,11 @@ function GlobalFilter({
   globalFilter,
   setGlobalFilter,
 }) {
+
   const [value, setValue] = useState(globalFilter)
-  const onChange = useAsyncDebounce(value => {
+  const onChange = async value => {
     setGlobalFilter(value || undefined)
-  }, 200)
+  }
 
   
   return (

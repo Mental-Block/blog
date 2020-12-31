@@ -1,4 +1,4 @@
-import React, {useCallback, useMemo } from 'react'
+import React, {useMemo, } from 'react'
 import {useStaticQuery, graphql, Link} from "gatsby"
 
 import Table from "./Table"
@@ -25,7 +25,7 @@ export default function TableWithData() {
 
     const posts = allMarkdownRemark.nodes
        
-        const data = useCallback(
+        const data = useMemo(() =>
             posts.map((post) => {
             const title = post.frontmatter.title
             const date = post.frontmatter.date.slice(0, 10)
@@ -33,7 +33,7 @@ export default function TableWithData() {
             const tickersymbol = post.frontmatter.tag
             
             return { title, date, tickersymbol, filterType }
-        }), [])
+        }), [posts])
     
 
     const columns = useMemo(
@@ -44,7 +44,7 @@ export default function TableWithData() {
                 {
                 Header: 'Title',
                 accessor: 'title',
-                Cell: ({ cell: { value }, row }) => <Link className="link" to={allMarkdownRemark.nodes[row.id].fields.slug}>{value}</Link>
+                Cell: ({ cell: { value }, row }) => <Link className="link" to={posts[row.id].fields.slug}>{value}</Link>
               },
               {
                 Header: 'Date',
@@ -61,7 +61,7 @@ export default function TableWithData() {
             ],
           },
         ],
-        [allMarkdownRemark.nodes]
+        [posts]
       )        
 
     return <Table columns={columns} data={data} />
