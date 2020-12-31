@@ -22,9 +22,11 @@ export default function TableWithData() {
             }
         }
     `);
+
+    const posts = allMarkdownRemark.nodes
        
         const data = useCallback(
-            allMarkdownRemark.nodes.map((post) => {
+            posts.map((post) => {
             const title = post.frontmatter.title
             const date = post.frontmatter.date.slice(0, 10)
             const filterType = post.frontmatter.filterType
