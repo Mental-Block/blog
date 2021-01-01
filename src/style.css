@@ -78,7 +78,7 @@ a, .link{
   text-decoration: none;
 }
 
-a:hover, .link:hover{
+.link:hover{
   text-decoration: underline;
 }
 
