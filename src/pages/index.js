@@ -8,21 +8,11 @@ import PostFilters from "../components/PostFilter";
 export default function BlogIndex({ data }){
   const posts = data.allMarkdownRemark.nodes
 
-  // SEO
-  const seo = {
-    title: "All posts",
-    meta: [
-            {
-              name: `description`,
-              content: "",
-            },
-          ]
-  }
   
   if (posts.length === 0) {
     return (
       <Layout layoutType="blog">
-        <SEO {...seo} />
+        <SEO title='All Posts' />
         <h1 className="header">Recent Posts</h1>
         <p>
           Sorry I currently only have good idea's... So i'm not going to share them with you! 
@@ -34,7 +24,7 @@ export default function BlogIndex({ data }){
 
   return (
     <Layout layoutType="blog">
-      <SEO {...seo} />
+      <SEO title="All Posts" />
         <h1 className="header">Recent Posts</h1>
         <PostFilters posts={posts} />
     </Layout>
