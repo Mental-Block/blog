@@ -7,11 +7,23 @@ import PostFilters from "../components/PostFilter";
 
 export default function BlogIndex({ data }){
   const posts = data.allMarkdownRemark.nodes
+
+  // SEO
+  const seo = {
+    title: "All posts",
+    meta: [
+            {
+              name: `description`,
+              content: "",
+            },
+          ]
+  }
   
   if (posts.length === 0) {
     return (
       <Layout layoutType="blog">
-        <SEO title="All posts" />
+        <SEO {...seo} />
+        <h1 className="header">Recent Posts</h1>
         <p>
           Sorry I currently only have good idea's... So i'm not going to share them with you! 
           Maybe all have one in the near future!
@@ -22,7 +34,8 @@ export default function BlogIndex({ data }){
 
   return (
     <Layout layoutType="blog">
-      <SEO title="All posts" />
+      <SEO {...seo} />
+        <h1 className="header">Recent Posts</h1>
         <PostFilters posts={posts} />
     </Layout>
   )
@@ -30,12 +43,7 @@ export default function BlogIndex({ data }){
 
 export const pageQuery = graphql`
 {
-  site {
-    siteMetadata {
-      title
-    }
-  }
-  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}, limit: 10) {
+  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}, limit: 15) {
     nodes {
       excerpt
       fields {

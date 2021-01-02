@@ -5,7 +5,10 @@ module.exports = {
       name: `Aaron Tibben`,
       summary: `I am a software developer who also like to find intresting investment opportunities`,
     },
-    description: ``,
+    description: `
+    Bad Ideas Guy looks at over 1000's of micro and nanocap companies to find mispriced 
+    and unusual stocks that we think have the opportunity to out preform.
+    `,
     siteUrl: `http://www.badideasguy.com/`,
   },
   plugins: [

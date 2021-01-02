@@ -50,8 +50,12 @@ export default function SEO({ description, lang, meta, title }) {
         {
           property: `og:type`,
           content: `website`,
-        }
+        },
       ].concat(meta)}
+      link={[{
+        rel: "canonical", 
+        href:"https://www.badideasguy.com/"
+      }]}
     />
   )
 }

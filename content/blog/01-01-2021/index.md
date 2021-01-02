@@ -1,16 +1,47 @@
 ---
 tag: "CNSX: URL"
-filterType: "General Market"
-title: New Beginnings This is a really long title
-date: "2015-05-28T22:40:32.169Z"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ornare eu dolor eget tristique. Aliquam ante urna, tincidunt facilisis dignissim nec, lacinia at libero. Fusce in dolor efficitur, tristique nisl vel, condimentum ante. Etiam mauris ex, euismod eget nisi sit amet, dictum laoreet orci. Maecenas id tortor ante. Nam non mattis odio, at ornare urna. Ut id egestas nulla. Maecenas consequat libero vel vulputate varius. Donec eu gravida ex, in faucibus justo."
+filterType: "Reports"
+title: "A Buyout Trading At a Discount"
+date: "2021-01-01"
+description: "On Namesilo Dec, 2, 2020 announced they had entered into a non-binding agreement to sell the company to WGH Holdings B.V. for 40M. Presenting a short term trading opportunity."
 
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+- Company: NameSilo Technologies Corp.
+- Market Cap: 23.16M
+- Share Price: 0.25
+- 52 Week Hi/Low: $0.17 – $0.55
+- Shares Issued and Outstanding: 
+- Warrants: 10.5M
+- Fully Diluted: 92.65M
+- Options: 
+- Insider Ownership:  
+- Last Financing: (pre-consolidation)
+
+## Introduction 
+___
+
+Namesilo is a domain registrar business that sells cheap domains and other web services. They are currently trading around 0.25 with a market cap of around $23.16M. On Namesilo Dec, 2, 2019 announced they had entered into a non-binding agreement to sell the company to WGH Holdings B.V. for 40M. Presenting it's self into an intresting short term trading opportunity for prudent investors. 
+
+## Business
+---
+## Shareholders
+---
+## Management
+--- 
+## Sales
+---
+## Net Income
+---
+## Balence Sheet
+---
+## Risks
+---
+## Overview
+---
+## Conclusion 
+---
+
 
 ## On deer horse aboard tritely yikes and much
 

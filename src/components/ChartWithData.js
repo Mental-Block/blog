@@ -7,12 +7,13 @@ export default function ChartWithData(){
             display: true,
             label: 'My preformace',
             borderColor: 'rgb(255,235,0)',
-            data: [22],
+            data: [21.93],
         }, 
         {
+            display: true,
             label: 'S&P500',
             borderColor: 'rgb(0,0,0)',
-            data: [16.88]
+            data: [18.40]
         }
     ];
     

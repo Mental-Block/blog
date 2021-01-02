@@ -1,7 +1,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { Link, graphql } from "gatsby"
-import { Helmet } from "react-helmet"
+import SEO from "../components/Seo"
 
 import {toSlug} from "../util/toSlug"
 
@@ -9,14 +9,11 @@ import Layout from "../components/Layout"
 
 const TagsPage = ({
   data: {
-    allMarkdownRemark: { group },
-    site: {
-      siteMetadata: { title },
-    },
+    allMarkdownRemark: { group }
   },
 }) => (
   <>
-    <Helmet title={title} />
+    <SEO title="Tags" />
     <Layout>
     <div className="center column">
       <h1 className="header">Tags</h1>

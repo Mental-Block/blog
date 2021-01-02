@@ -25,7 +25,7 @@ export default function Navigation() {
         <header>
             <nav className="nav" >
                 <Link to="/">
-                    <Logo />
+                    <Logo alt="Logo"/>
                 </Link>
                 <Links open={open} />
                 <Burger open={open} toggle={() => toggle(!open)} />

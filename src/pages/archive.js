@@ -9,6 +9,7 @@ export default function archive() {
     return (
         <Layout>
             <SEO title="Archive" />
+              <h1 className="header center">Archive</h1>
               <section aria-label="search">
                 <h2 className="sub__header">Search</h2>
                 <TableWithData />

@@ -1,17 +1,50 @@
 ---
-title: namesilo
-date: "2016-05-28T22:40:32.169Z"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ornare eu dolor eget tristique. Aliquam ante urna, tincidunt facilisis dignissim nec, lacinia at libero. Fusce in dolor efficitur, tristique nisl vel, condimentum ante. Etiam mauris ex, euismod eget nisi sit amet, dictum laoreet orci. Maecenas id tortor ante. Nam non mattis odio, at ornare urna. Ut id egestas nulla. Maecenas consequat libero vel vulputate varius. Donec eu gravida ex, in faucibus justo. Quisque lacus enim, fringilla bibendum lorem eu, tincidunt hendrerit neque. Etiam imperdiet urna urna, eu faucibus est pretium at. Duis eleifend mi nec turpis convallis ornare. Sed at ipsum posuere, ullamcorper urna vitae, tincidunt dolor. Donec ante metus, tincidunt eget tempor sed, gravida vitae risus. Suspendisse non nisi vel felis iaculis maximus."
-filterType: "General Market"
-tag: "TSE: HWO"
+tag: "CNSX: URL"
+filterType: "Reports"
+title: "A Buyout Trading At a Discount"
+date: "2021-01-01"
+description: "On Namesilo Dec, 2, 2020 announced they had entered into a non-binding agreement to sell the company to WGH Holdings B.V. for 40M. Presenting a short term trading opportunity."
+
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+- Company: NameSilo Technologies Corp.
+- Market Cap: 23.16M
+- Share Price: 0.25
+- 52 Week Hi/Low: $0.17 – $0.55
+- Shares Issued and Outstanding: 
+- Warrants: 10.5M
+- Fully Diluted: 92.65M
+- Options: 
+- Insider Ownership:  
+- Last Financing: (pre-consolidation)
+
+## Introduction 
+___
+
+Namesilo is a domain registrar business that sells cheap domains and other web services. They are currently trading around 0.25 with a market cap of around $23.16M. On Namesilo Dec, 2, 2019 announced they had entered into a non-binding agreement to sell the company to WGH Holdings B.V. for 40M. Presenting it's self into an intresting short term trading opportunity for prudent investors. 
+
+## Business
+---
+## Shareholders
+---
+## Management
+--- 
+## Sales
+---
+## Net Income
+---
+## Balence Sheet
+---
+## Risks
+---
+## Overview
+---
+## Conclusion 
+---
+
 
 ## On deer horse aboard tritely yikes and much
+
 
 The Big Oxmox advised her not to do so, because there were thousands of bad
 Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
@@ -20,7 +53,7 @@ made herself on the way.
 
 - This however showed weasel
 - Well uncritical so misled
-  - this is very interesting
+- this is very interesting
 - Goodness much until that fluid owl
 
 When she reached the first hills of the **Italic Mountains**, she had a last

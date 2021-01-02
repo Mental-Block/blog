@@ -59,26 +59,26 @@ button{
   outline: var(--active-menu-link-color) solid 2px;
 }
 
-h1{
+.article h1{
   margin: 40px;
 }
 
-h2{
-  margin: 20px 0;
+.article h2{
+  margin: 40px 0 20px 0;
   font-size: var(--font-med);
 }
 
-p{
+.article p{
   margin: 20px 0;
 }
 
-a, .link{
+.article a, .link{
   font-size: var(--font-xxsm);
   color: var(--primary-link-color);
   text-decoration: none;
 }
 
-.link:hover{
+.article a:hover, .link:hover{
   text-decoration: underline;
 }
 
@@ -105,7 +105,7 @@ a, .link{
  width: 100%;
  background-color: var( --page-wrapper-inner-bg);
  overflow-x: hidden;
- 
+ position: relative;
 }
 
 .btn{
@@ -153,6 +153,12 @@ a, .link{
   margin: 40px 0;
 }
 
+.post__filter{
+  position: absolute;
+  top: 20px;
+  right: 40px;
+}
+
 .post__title{
   font-size: var(--font-lg);
   font-style: italic;
@@ -177,8 +183,8 @@ a, .link{
 }
 
 /* headers, inputs links, etc... */
-.header{
-  margin: 0 0 50px 0;
+.header {
+  margin-bottom: 50px;
   color: var(--primary-color);
   font-size: var(--font-xlg);
   font-weight: var(--weigth-bold);
@@ -332,7 +338,6 @@ a, .link{
   justify-content: space-between;
   align-items: center;
 }
-
 
 /*footer, nav, pre__nav, etc...  */
 .menu{

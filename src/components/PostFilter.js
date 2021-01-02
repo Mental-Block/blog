@@ -35,7 +35,7 @@ export default function PostFilter({...props}) {
 
     return (
         <>
-            <div className="left">     
+            <div className="post__filter">
                 <div className="filter">
                     <button className="dropdown__button" onClick={() => toggle(!open)} aria-label="post filter" type="button" >
                         <span className="btn__content" tabIndex="-1">
