@@ -32,16 +32,8 @@ Namesilo started out as an investment holding company called Bristo Inovations w
 Since 2018 Namesilo has had a growing customer base of about 80% YOY with a churn rate of about 13%. They took the business from having 1.85M to 3.6M users and was growing revnues rapidly. This growth continued strong into 2019 but by 2020 the domain growth was completly killed when they tried to roll out some additional on services. By Q2 and Q3
 domains numbers started to shrink to until they hit an uptick in Q3 and Q4 in 2020 to bounce back to 3.6M. They are still growing revenue and domains about 10-20% but not like the 100% they had the previous years. 
 
-Normally a slow down with this kind of growth wouldn't be a problem for most capital light business but they have to find a way to service the debt accured by purchasing namesilo. So on September September 28, 2020 they dilluted their shareholders 50% causing the stock to drop from 0.50 to 0.23. This left a bitter taste in shareholder mouths as they could have use the investment portfolio to pay down the debt instead of doing a cheap equity raise. Since then the stock hasn't recovered even though the actual fundamentals have gotten better with the investment portfolio growing at 400% and then eventual announcement of the sale of a 200% ROI investment didn't excite the market at all. 
+Normally a slow down with this kind of growth wouldn't be a problem for most capital light business but they have to find a way to service the debt accured by purchasing namesilo. So on September September 28, 2020 they dilluted their shareholders 50% causing the stock to drop from 0.50 to 0.23. This left a bitter taste in shareholder mouths as they could have use the investment portfolio to pay down the debt instead of doing a cheap equity raise. Since then the stock hasn't recovered even though the actual fundamentals have gotten better with the investment portfolio growing at 400% and then eventual announcement of the sale of a 100% ROI investment didn't excite the market at all. 
 
-## Risks
-
-- Deal doesn't go through
-- Market doesn't reconise the transaction 
-
-## Statical Probability 
-
-I'm giving this a statistical probability of 80%. Insiders have recently bought a good amount of the stock. The company aquiring Namesilo is also a domain registar looking to expand their business. They currently are the #1 domain registar in North Africa. 
 
 
 
