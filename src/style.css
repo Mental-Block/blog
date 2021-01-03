@@ -68,6 +68,14 @@ button{
   font-size: var(--font-med);
 }
 
+.article h3 {
+  margin: 20px 0;
+}
+
+.article hr {
+  margin: 20px 0 40px 0;
+}
+
 .article p{
   margin: 20px 0;
 }
@@ -80,6 +88,11 @@ button{
 
 .article a:hover, .link:hover{
   text-decoration: underline;
+}
+
+.article ul, .article ol{
+  margin-left: 22px;
+  list-style-type: disc;
 }
 
 

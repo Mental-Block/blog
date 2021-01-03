@@ -11,133 +11,40 @@ description: "On Namesilo Dec, 2, 2020 announced they had entered into a non-bin
 - Market Cap: 23.16M
 - Share Price: 0.25
 - 52 Week Hi/Low: $0.17 – $0.55
-- Shares Issued and Outstanding: 
+- Shares Issued and Outstanding: 62.32M
 - Warrants: 10.5M
 - Fully Diluted: 92.65M
-- Options: 
-- Insider Ownership:  
-- Last Financing: (pre-consolidation)
+- Options: 3.5M
+- Insider Ownership: 12.1%
+- Last Financing: 2020 – $5.7M / 29M units at $0.20 full warrant at $0.30
 
-## Introduction 
-___
+![Namesilo Logo](./namesilo.jpg)
 
-Namesilo is a domain registrar business that sells cheap domains and other web services. They are currently trading around 0.25 with a market cap of around $23.16M. On Namesilo Dec, 2, 2019 announced they had entered into a non-binding agreement to sell the company to WGH Holdings B.V. for 40M. Presenting it's self into an intresting short term trading opportunity for prudent investors. 
+## Quick Summary
 
-## Business
----
-## Shareholders
----
-## Management
---- 
-## Sales
----
-## Net Income
----
-## Balence Sheet
----
+ On Namesilo Dec, 2, 2020 Namsilo announced they had entered into a non-binding agreement to sell the company to WGH Holdings B.V. for 40M and have 60 days to carry out any do dilligence so the proposed sell date should be around febuary, 2, 2021. This leaves Namesilo shareholders 30M after the expenses of 20% paid to Kristaps Ronka team. The 30M plus the investment portfolio of 12.5M leaves shareholders with around 42.5M. The current market cap of namesilo is 
+ 23.5M and trading around $0.25. This naturally leaves a short term trading opportunity, accumulate under 0.30 and sell near 0.40 in a couple of months when the deal goes through.
+
+## Background Information
+
+Namesilo started out as an investment holding company called Bristo Inovations where they held public securites. In 2018 they aquired Namesilo for 15M. Namesilo is a domain registrar business. They compete with Go Daddy, Name Cheap, Tocows and other Domain providers. They provide domains and have added some additional services. Their 'competive' advantage was being a low cost provider of these services and the larger players in this space don't want ruin their gross margins by competing with Namesilo.   
+
+Since 2018 Namesilo has had a growing customer base of about 80% YOY with a churn rate of about 13%. They took the business from having 1.85M to 3.6M users and was growing revnues rapidly. This growth continued strong into 2019 but by 2020 the domain growth was completly killed when they tried to roll out some additional on services. By Q2 and Q3
+domains numbers started to shrink to until they hit an uptick in Q3 and Q4 in 2020 to bounce back to 3.6M. They are still growing revenue and domains about 10-20% but not like the 100% they had the previous years. 
+
+Normally a slow down with this kind of growth wouldn't be a problem for most capital light business but they have to find a way to service the debt accured by purchasing namesilo. So on September September 28, 2020 they dilluted their shareholders 50% causing the stock to drop from 0.50 to 0.23. This left a bitter taste in shareholder mouths as they could have use the investment portfolio to pay down the debt instead of doing a cheap equity raise. Since then the stock hasn't recovered even though the actual fundamentals have gotten better with the investment portfolio growing at 400% and then eventual announcement of the sale of a 200% ROI investment didn't excite the market at all. 
+
 ## Risks
----
-## Overview
----
-## Conclusion 
----
+
+- Deal doesn't go through
+- Market doesn't reconise the transaction 
+
+## Statical Probability 
+
+I'm giving this a statistical probability of 80%. Insiders have recently bought a good amount of the stock. The company aquiring Namesilo is also a domain registar looking to expand their business. They currently are the #1 domain registar in North Africa. 
 
 
-## On deer horse aboard tritely yikes and much
 
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
 
-- This however showed weasel
-- Well uncritical so misled
-- this is very interesting
-- Goodness much until that fluid owl
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
-
-### Overlaid the jeepers uselessly much excluding
-
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
-
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
-
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-### According a funnily until pre-set or arrogant well cheerful
-
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
-
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
-
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
-
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
-
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
-
-#### Silent delightfully including because before one up barring chameleon
-
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
-
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
-
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
-
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
-
-###### Slapped cozy a that lightheartedly and far
-
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
