@@ -36,7 +36,7 @@ im going to value this thing on a rerate of the stock of a PE 8 that would make 
 
 risks:
 
-- foreign currency exchange (ZAR has lost 50% of value compared to USD)
+- foreign currency exchange (ZAR has lost 50% of value compared to USD over the past 10 years)
 - extreme customer concentration only 3 customers
 - - Arcelor Mittal & BHP Billiton (85% of revenue)
 - - unknown (15% of revenue)
