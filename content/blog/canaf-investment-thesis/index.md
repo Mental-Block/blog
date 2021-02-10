@@ -32,7 +32,7 @@ Over a 10 year baring out 2008 and 2016 Southern Coal has produced a normalize F
 
 Now, the icing on the cake is they are expanding into residental  real esate providing incrimental growth. Canaf bought their first property in 2019 and expect to earn a net yeild of 10% per year. I know it's still a small portion of their business but i'm expecting them to ramp it up. It's also going to be a lot more recession proof then coal.
 
-im going to value this thing on a rerate of the stock of a PE 8 that would make the stock worth around 0.18 - 0.23 CAD. This does not include a growth rate with the company. so I wouldn't be surpised if it goes higher. 
+I think the stock is worth around 18 million CAD for a FCF rate of 10%. This does not include a growth rate with the company which is growing book by 36% a year.  
 
 risks:
 
@@ -43,6 +43,7 @@ risks:
 - political unrest 
 - commodity
 - illiquid 
+- covid
 
 pros: 
 
