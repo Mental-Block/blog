@@ -7,13 +7,19 @@ export default function ChartWithData(){
             display: true,
             label: 'My preformace',
             borderColor: 'rgb(255,235,0)',
-            data: [21.93],
+            data: [28.4],
         }, 
         {
             display: true,
             label: 'S&P500',
             borderColor: 'rgb(0,0,0)',
-            data: [18.40]
+            data: [17.88]
+        },
+        {
+            display: true,
+            label: 'S&P/TSX Venture Composite Index',
+            borderColor: 'rgb(0,50,250)',
+            data: [51.27]
         }
     ];
     

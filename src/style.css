@@ -579,6 +579,11 @@ button{
   border-right: 0;
 }
 
+.portfolio__allocation{
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
 #dsq-comments-title h4 {
   color:#333;
   }

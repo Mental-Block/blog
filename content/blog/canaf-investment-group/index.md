@@ -2,7 +2,7 @@
 tag: "CVE: CAF"
 filterType: "Reports"
 title: "Canaf Investment Group"
-date: "2021-01-08"
+date: "2021-01-24"
 description: "Canaf Investment has been trading sideways for the past 10 years and has been left behind for dead as investors flock out for green technology while it's slowly been improving and now has the means to substantially grow earnings."
 
 ---
@@ -44,6 +44,7 @@ risks:
 - commodity
 - illiquid 
 - covid
+- very capital intentsive
 
 pros: 
 
