@@ -11,7 +11,7 @@ description: "Canaf Investment has been trading sideways for the past 10 years a
 
 - Company: Canaf Investments Inc.
 - Market Cap: 4.25 M CAD
-- Share Price: 0.095 CAD
+- Share Price: 0.06 CAD
 - 52 Week Hi/Low: $0.035 – $0.075 CAD
 - Shares Issued and Outstanding: 47.43M
 - Warrants: none
