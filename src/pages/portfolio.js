@@ -3,7 +3,6 @@ import React from "react";
 import Layout from '../components/Layout'
 import SEO from "../components/Seo"
 import ChartWithData from "../components/ChartWithData"
-import AllocationPortfolio from "../../static/portfolio.png"
 
 export default function Portfolio() {
     return (
@@ -34,13 +33,7 @@ export default function Portfolio() {
             </section>
             <section aria-label="proformace">
                 <header>
-                   <h2 className="sub__header__2">Potfolio Allocation</h2> 
-                </header>
-
-                <img className="portfolio__allocation" src={AllocationPortfolio}/>
-
-                <header>
-                   <h2 className="sub__header__2">My performance since buying my first stock</h2> 
+                   <h2 className="sub__header__2">Cumulative Portfolio Performace Since Inception</h2> 
                 </header>
                 <ChartWithData />
             </section>

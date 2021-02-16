@@ -22,7 +22,7 @@ description: "Canaf Investment has been trading sideways for the past 10 years a
 
 ![Canaf Logo](./canaf.jpg)
 
-Canaf investment group is a company with has a long-term strategic focus on growing sustainable shareholder wealth by investing long-term growth sectors within South Africa. Their main business is to make coking coal for steel production and have recently expanded into residential real esate. more info: http://www.canafgroup.com/corporate/about-us/ 
+Canaf investment group is a company with has a long-term strategic focus on growing sustainable shareholder wealth by investing long-term growth sectors within South Africa. Their main business is to make coking coal for steel production and have recently expanded into residential real estate. more info: http://www.canafgroup.com/corporate/about-us/ 
 
 Since David way and the team took over in 2007 they have been lowering their debt and have been improving operational efficiency of the coking business (southern coal). They took shareholder equity from (201,812) in 2008 to $4,001,213 as of july 2020 ($0.11 CAD). Growing it's book value by 36% per year. 
 
@@ -30,9 +30,9 @@ Unfortunately, David Way step down from the board of directors on December 4, 20
 
 Over a 10 year baring out 2008 and 2016 Southern Coal has produced a normalize FCF of about 400k (500k CAD) giving this a yeild of about 8.5% from current price. In recent, years the FCF rate has expanded due to coal price going up 50%, operational efficiencys and adding an additional another customer bringing FCF around $1 million (1.2 million CAD) or a yeild of 20%. The industry average is currently around 14.3% with leverage. Most coal producers have a worse FCF yeild and are highly levered. Even if we take the low end of valuations this company is still undervalued on almost every metric relitive to it's peers. 
 
-Now, the icing on the cake is they are expanding into residental  real esate providing incrimental growth. Canaf bought their first property in 2019 and expect to earn a net yeild of 10% per year. I know it's still a small portion of their business but i'm expecting them to ramp it up. It's also going to be a lot more recession proof then coal.
+Now, the icing on the cake is they are expanding into residental  real estate providing incrimental growth. Canaf bought their first property in 2019 and expect to earn a net yeild of 10% per year. I know it's still a small portion of their business but i'm expecting them to ramp it up. It's also going to be a lot more recession proof then coal.
 
-I think the stock is worth around 10 million CAD for a FCF rate of 10%. This does not include a growth rate of the real esate side of the business as I want atleast 2 years of earnings before I assess it.
+I think the stock is worth around 10 million CAD for a FCF rate of 10%. This does not include a growth rate of the real estate side of the business as I want atleast 2 years of earnings before I assess it.
 
 risks:
 

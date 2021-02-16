@@ -1,10 +1,9 @@
 ---
 tag: "CNSX: URL"
 filterType: "Reports"
-title: "A Buyout Trading At a Discount"
+title: "Namesilo Buyout"
 date: "2021-01-01"
 description: "On Namesilo Dec, 2, 2020 announced they had entered into a non-binding agreement to sell the company to WGH Holdings B.V. for 40M. Presenting a short term trading opportunity."
-
 ---
 
 - Company: NameSilo Technologies Corp.
