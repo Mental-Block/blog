@@ -5,8 +5,8 @@ import Layout from "../components/Layout"
 import SEO from "../components/Seo"
 import Comments from "../components/Comments"
 
-const BlogPostTemplate = ({ data }) => {
-  const post = data.markdownRemark
+const  BlogPostTemplate = ({ data }) => {
+  const post = data.markdownRemark;
   const { previous, next } = data
 
   return (
@@ -14,7 +14,6 @@ const BlogPostTemplate = ({ data }) => {
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
-        
       />
       <article
         className="article"
@@ -63,7 +62,7 @@ const BlogPostTemplate = ({ data }) => {
         </ul>
       </nav>
       <hr />
-      <Comments title={post.frontmatter.title} slug={post.fields.slug}/>
+      {/* <Comments title={post.frontmatter.title} slug={post.fields.slug}/> */}
     </Layout>
   )
 }

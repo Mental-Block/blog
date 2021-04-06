@@ -2,7 +2,7 @@ import React from 'react'
 
 import { DiscussionEmbed } from "disqus-react"
 
-export default function Comments({ ...props}) {
+export default  function Comments({ ...props}) {
     const {title, slug} = props
 
     const disqusConfig = {
