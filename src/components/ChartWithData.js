@@ -7,13 +7,13 @@ export default function ChartWithData(){
             display: true,
             label: 'My preformace',
             borderColor: 'rgb(255,235,0)',
-            data: [28.4],
+            data: [19.89],
         }, 
         {
             display: true,
             label: 'S&P500',
             borderColor: 'rgb(0,0,0)',
-            data: [17.88]
+            data: [18.40]
         },
         {
             display: true,
@@ -34,5 +34,5 @@ export default function ChartWithData(){
         return labels;
     }, []);
     
-    return <Chart labels={labels} data={DATA} type="line" />
+    return <Chart labels={labels()} data={DATA} type="line" />
 }

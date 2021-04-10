@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import { Link } from "gatsby"
 
 import Burger from "./Burger"
@@ -12,11 +12,16 @@ const PAGE_WIDTH = "960"
 const EVENT = "resize"
 
 export default function Navigation() {
-    const [open, toggle] = useState(true);
+    const [open, toggle] = useState(false);
 
     const forceToggle = () => {
         if (window.innerWidth >= PAGE_WIDTH) toggle(true);
     }
+
+    useEffect(() => {
+        forceToggle()
+        return
+    }, [])
 
     useEvent(EVENT, forceToggle)
 

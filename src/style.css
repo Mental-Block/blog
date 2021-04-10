@@ -55,10 +55,6 @@ button{
   border: none;
 }
 
-*:focus{
-  outline: var(--active-menu-link-color) solid 2px;
-}
-
 .article h1{
   margin: 40px 0;
 }
@@ -104,7 +100,7 @@ button{
 }
 
 .page__wrapper__outer{
-  padding-top: 151px;
+  padding-top: 126px;
   background-color: var(--page-wrapper-bg);
   max-width: 100%;
   display: flex;
@@ -113,7 +109,7 @@ button{
 
 .page__wrapper__inner{
  min-height: 100vh;
- padding: 55px;
+ padding: 50px 30px;
  max-width: 100%;
  width: 100%;
  background-color: var( --page-wrapper-inner-bg);
@@ -365,7 +361,7 @@ button{
 }
 
 .pre__nav{
-  padding: 8px 50px; 
+  padding: 8px 30px; 
   background: var(--pre-nav-gradient-bg);
   display: flex;
   justify-content: flex-end;
@@ -387,7 +383,7 @@ button{
 }
 
 .nav{ 
-  padding: 16px 30px;
+  padding: 4px 30px;
   position: relative;
   background-color: var(--primary-color);
   display: flex;
@@ -403,7 +399,7 @@ button{
   right: 0;
   width: 100%;
   bottom: auto;
-  top: 116px;
+  top: 92px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -419,14 +415,14 @@ button{
 .nav__burger__line, 
 .nav__burger__line--active{
   transition: 300ms linear;
-  width:40px;
-  height: 6px;
+  width: 32px;
+  height: 5px;
   background-color: var(--primary-menu-link-color);
 }
 
 .nav__burger__line:nth-child(2), 
 .nav__burger__line--active:nth-child(2){
-  margin: 8px 0;
+  margin: 7px 0;
 }
            
 .nav__burger__line--active,
@@ -502,7 +498,7 @@ button{
 }
 
 .logo{
-  width: 220px;
+  width: 190px;
 }
 
 .hidden{
@@ -651,12 +647,16 @@ button{
   }
 
 @media (max-width: 420px){
-  .logo{
-    width: 200px;
+  .nav{
+    padding: 4px 20px;
+  }
+
+  .pre__nav{
+    padding: 8px 20px;
   }
 
   .page__wrapper__inner{
-    padding: 40px 20px;
+    padding: 50px 20px;
   }
 
   .header{
@@ -664,16 +664,24 @@ button{
   }
 
   .nav__burger__line, .nav__burger__line--active{
-    width:38px;
-    height:6px;
+    width:34px;
+    height:5px;
   }
   
   .nav__burger__line:nth-child(2), .nav__burger__line--active:nth-child(2){
-    margin: 7px 0;
+    margin: 8px 0;
   }
 }
 
 @media (min-width: 768px){
+  .nav{
+    padding: 4px 50px;
+  }
+
+  .pre__nav{
+    padding: 8px 50px;
+  }
+
   .page__wrapper__inner{
     margin: 0 40px;
   }
@@ -705,10 +713,6 @@ button{
 
   .page__wrapper__outer{
     padding-top: 127px;
-  }
-
-  .nav{
-    padding: 4px 50px;
   }
 
   .nav_link{
