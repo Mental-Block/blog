@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/Layout"
 import SEO from "../components/Seo"
-// import Comments from "../components/Comments"
+import Comments from "../components/Comments"
 
 const  BlogPostTemplate = ({ data }) => {
   const post = data.markdownRemark;
@@ -62,7 +62,7 @@ const  BlogPostTemplate = ({ data }) => {
         </ul>
       </nav>
       <hr />
-      {/* <Comments title={post.frontmatter.title} slug={post.fields.slug}/> */}
+      <Comments title={post.frontmatter.title} slug={post.fields.slug}/>
     </Layout>
   )
 }

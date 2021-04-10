@@ -3,12 +3,14 @@ import React from 'react'
 import { DiscussionEmbed } from "disqus-react"
 
 export default  function Comments({ ...props}) {
-    const {title, slug} = props
+    const disqusShortname = process.env.GATSBY_DISQUS_NAME
 
     const disqusConfig = {
-        shortname: process.env.GATSBY_DISQUS_NAME,
-        config: { identifier: slug, title },
-      }
+      url: `https://www.badideasguy.com/${props.slug}`,
+      identifier: props.title,
+      title: props.title
+    }
 
-    return <DiscussionEmbed {...disqusConfig} /> 
+
+    return <DiscussionEmbed config={disqusConfig} shortname={disqusShortname} /> 
 }
