@@ -1,7 +1,7 @@
 ---
 tag: "CNSX: URL"
 filterType: "Reports"
-title: "Namesilo Buyout Busted?"
+title: "Namesilo Buyout Update"
 date: "2021-01-01"
 description: "The Namesilo deal is still working on going through and growth starting to pick up again."
 ---
