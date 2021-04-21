@@ -19,7 +19,7 @@ description: "The Namesilo deal is still working on going through and growth sta
 
 ![Namesilo Logo](./namesilo.jpg)
 
-The Namesilo deal was supposed to go through during Febuary of this year. According to the inital press release. https://ceo.ca/@thenewswire/namesilo-technologies-corp-enters-into-letter-of-intent. Well... the deal never happend and a couple of month later management say they are still in talks of selling namesilo for $0.30 to WGH Holdings BV. https://ceo.ca/@thenewswire/namesilo-technologies-corp-provides-corporate-update. I still think it's a buy here given the adequate margin of saftey provived by the investment portfiolio. This plus the domain side of things are beginning to pick up again so the growth rate might not be as bad as I initally under wrote. Still long. 
+The Namesilo deal was supposed to go through during Febuary of this year. According to the inital press release. https://ceo.ca/@thenewswire/namesilo-technologies-corp-enters-into-letter-of-intent. Well... the deal never happend and a couple of month later management say they are still in talks of selling namesilo for $0.30 to WGH Holdings BV. https://ceo.ca/@thenewswire/namesilo-technologies-corp-provides-corporate-update. I still think it's a buy here given the adequate margin of saftey provided by the investment portfiolio. This plus the domain side of things are beginning to pick up again so the growth rate might not be as bad as I initally under wrote. Still long. 
 
 
 
