@@ -15,7 +15,7 @@ description: "Canaf Investment has been trading sideways for the past 10 years a
 - Warrants: none
 - Fully Diluted: 47.43M
 - Options: none
-- Insider Ownership: 16.53%%
+- Insider Ownership: 16.53%
 - Last Financing: 2008 – $2M / 8M units at $0.25 CAD full warrant at $0.35 CAD
 
 ![Canaf Logo](./canaf.jpg)

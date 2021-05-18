@@ -27,9 +27,9 @@ export default function about() {
                         financial related podcast. My favourite at the moment is Value After Hours by the Aquires Podcast.
                     </p>
                     <p className="paragraph">
-                        I am a full-time construction labour living in the Ottawa region. If I’m not looking at potential investments 
+                        I work full-time in a manufactoring plant. If I’m not looking at potential investments 
                         or working. I'm writing code or learning more technologies and  a little bit of blogging as well. Hopefully, one 
-                        day all switch my current job to a software job were all have time to look at more oppertunites.
+                        day all switch my current job to a software job were all have time to look at more opportunities.
                     </p>
                     <p className="paragraph">
                         I have created this blog to improve and document my investing process and skill. The reason I am 
@@ -40,7 +40,7 @@ export default function about() {
                         If you want to know more about me just ask, <Link className="link" to="/contact">contact link</Link>
                     </p>
                     <p className="paragraph">
-                        -- Aaron Tibben
+                        -- BadIdeasGuy
                     </p>
                 </section>
             </article>

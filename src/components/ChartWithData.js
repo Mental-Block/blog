@@ -13,13 +13,13 @@ export default function ChartWithData(){
             display: true,
             label: 'S&P500',
             borderColor: 'rgb(0,0,0)',
-            data: [18.40]
+            data: [44.33]
         },
         {
             display: true,
             label: 'S&P/TSX Venture Composite Index',
             borderColor: 'rgb(0,50,250)',
-            data: [51.27]
+            data: [128]
         }
     ];
     
